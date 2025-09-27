@@ -17,12 +17,8 @@ Basic filtering & search
 
 Offline-first, lightweight, fast
 
-(If your app has charts, export to CSV, dark mode, etc., add them here as bullets.)
-
 📱 Screenshots
 Home	Add Expense	History
-
-Put images in assets/ or docs/ and reference them like: ![Home](docs/home.png).
 
 📦 Download
 
@@ -65,14 +61,6 @@ android.permission.POST_NOTIFICATIONS (Android 13+, if you send notifications)
 
 Remove any permission you don’t use.
 
-🧪 Testing (optional)
-
-Unit tests: app/src/test/
-
-Instrumentation tests: app/src/androidTest/
-
-Add notes if you’ve added tests; otherwise remove this section.
-
 🗺️ Roadmap
 
  Export to CSV/Excel
@@ -84,10 +72,9 @@ Add notes if you’ve added tests; otherwise remove this section.
  Dark mode
 
  Charts / insights
+ 
 
-Update with your actual upcoming items.
-
-🧩 Tech Stack (adjust if needed)
+🧩 Tech Stack 
 
 Language: Java
 
@@ -95,18 +82,13 @@ Min/Target SDK: fill in
 
 Build: Gradle (Android Gradle Plugin)
 
-Architecture: fill in (e.g., MVVM)
+Architecture: MVVP
 
-Storage: fill in (e.g., Room / SQLite / SharedPreferences)
-
-🚀 Release Notes
-
-See CHANGELOG
- (optional) or use GitHub Releases.
+Storage:  Room / SQLite / SharedPreferences
 
 📄 License
 
-This project is licensed under the MIT License — see LICENSE for details. (Or choose another license.)
+This project is licensed under the MIT License.
 
 🙌 Contributions
 
