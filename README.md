@@ -21,7 +21,6 @@ Offline-first, lightweight, fast
 
 📱 Screenshots
 Home	Add Expense	History
-Add screenshot	Add screenshot	Add screenshot
 
 Put images in assets/ or docs/ and reference them like: ![Home](docs/home.png).
 
